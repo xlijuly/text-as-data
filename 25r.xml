@@ -33,15 +33,15 @@
       <body>
          <div type="page" n="25r" rend="recto">
             <pb facs="#p25r"/>
-            <metamark function="pagenumber"><num><hi rend="circled">83</hi></num></metamark>
-            <p>
+            <metamark function="pagenumber"><num><hi rend="circled">83</hi></num></metamark><lb/>
+            <p class="no-indent">
                believe that so great a good fortune<lb/>
                could have befallen me; but when<lb/>
                I <del type="crossedOut" hand="#MWS" rend="blackink">was</del><add place="supralinear" hand="#PBS" rend="blackink">became</add> assured that my enemy had<lb/>
                indeed fled, I clapped my hands for<lb/>
                joy and ran down to Henry.<lb/>
             </p>
-            <p style="text-indent:20px">
+            <p>
                We ascended into my room &amp; present<lb/>
                ly the servant brought breakfast:<lb/>
                but I was unable to contain my-<lb/>
@@ -55,18 +55,18 @@
                aloud. Clerval at first attributed<lb/>
                my unusual spirits to joy <del type="crossedOut" hand="#MWS" rend="blackink">at</del><add hand="#MWS" place="supralinear" rend="blackink">on</add> his<lb/>
                arrival– but when <del type="crossedOut" hand="#MWS" rend="blackink">saw</del> he observed<lb/>
-               me<add place="infralinear" hand="#PBS" rend="blackink">^</add><add place="supralinear" hand="#PBS" rend="blackink">more attentively</add> he saw a wildness in my eyes for<lb/>
+               me<metamark place="infralinear" hand="#PBS" rend="blackink" function="insertion">^</metamark><add place="supralinear" hand="#PBS" rend="blackink">more attentively</add> he saw a wildness in my eyes for<lb/>
                which he could not account and<lb/>
                my loud unrestrained heartless laugh<lb/>
                -ter frightened and astonished him.<lb/>
             </p>
-            <p style="text-indent:20px">
+            <p>
                My dear Frankenstein," cried he "What<lb/>
                for God's sake is the matter <del type="crossedOut" hand="#MWS" rend="blackink">for</del> do not<lb/>
                laugh so – <del type="crossedOut" hand="#MWS" rend="blackink">What has</del> How ill you are!<lb/>
                What is the cause of all this?<lb/>
             </p>
-            <p style="text-indent:20px">
+            <p>
                Do not ask me cried I, putting my<lb/>
                hands <del type="crossedOut" hand="#MWS" rend="blackink">fef</del> before my eyes, for I thought<lb/>
                I saw <hi rend="u">the spectre</hi> glide into the<lb/>

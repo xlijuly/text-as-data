@@ -1,21 +1,73 @@
-body {
-
-}
 .starter-template {
   padding: 40px 15px;
   text-align: center;
+}
+
+h1, .navbar-brand {
+    font-family: 'IM Fell English', Georgia, serif;
+}
+
+body {
+    font-family: 'Libre Baskerville', 'Crimson Text', 'Cormorant Garamond', serif;
+    background-image: url('https://www.transparenttextures.com/patterns/natural-paper.png');
+}
+
+.container {
+    line-height: 2;
+}
+
+h1 {
+    margin: 2rem 0;
+    margin-bottom: 0.5rem;
+}
+
+h2 {
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+h2#folio {
+    padding-left: 1.5rem;
+}
+
+h4 {
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+/* decorative line in index.html */
+hr.decorative {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+    margin: 2rem 0;
 }
 
 img {
     max-width: 100%;
 }
 
-p {
-    text-indent: 10px;
-}
-
 .row {
     width: 100%;
+    margin-left: 0;
+}
+
+p {
+    line-height: 1.8;
+    text-indent: 20px;
+}
+
+/* for paragraphs without indentation */
+.no-indent {
+    text-indent: 0;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+/* for the ancient mariner */
+.stanza {
+    padding-left: 40px;
+    text-indent: 0;
     margin-left: 0;
 }
 
@@ -24,12 +76,119 @@ p {
   margin-right: 10px;
 }
 
+/* Marginal contents: */
 .marginAdd {
-    display: none;
+    display: inline-block !important;
+    position: relative; /* from relative */
+    margin-left: -200px;
+    width: 190px;
+    text-align: right;
+    padding-right: 15px;
+}
+
+.marginAdd .supraAdd {
+    display: inline-block;
+    position: relative;
+    top: -0.5em;
+    font-size: smaller;
+}
+
+.marginAdd del {
+    display: inline-block;
+    text-decoration: line-through;
+}
+
+.transcription {
+    padding-left: 200px;
+    position: relative;
+    margin-right: 2rem;
+}
+
+del {
+    text-decoration: line-through;
 }
 
 .mirador-canvas-nav {
     display: none !important;
 }
 
+.supraAdd {
+    position: relative;
+    top: -1em;
+    font-size: smaller;
+}
 
+.infraAdd {
+    display: inline;
+    position: relative;
+    bottom: -0.5em;
+    font-size: 1em;
+    color: inherit;
+}
+
+.inlineAdd {
+    font-style: italic;
+}
+
+/* for pagenumbers */
+.circled {
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 50%;
+    padding: 0.2em;
+    text-align: center;
+    line-height: 1;
+    width: 1.5em;
+    height: 1.5em;
+}
+
+.pagenumber.recto {
+    float: right;
+}
+
+.pagenumber.verso {
+    float: left;
+}
+
+.centered {
+    text-align: center;
+}
+
+/* for the list of pages in index.html */
+ul li {
+    color: #A0522D;
+    margin: 0.5rem 0;
+}
+
+ul li a {
+    color: #A0522D;
+    text-decoration: none;
+}
+
+ul li a:hover {
+    text-decoration: underline;
+}
+
+/* for hyperlinks at the bottom of index.html */
+.text-center a {
+    color: #A0522D;
+    text-decoration: none;
+}
+
+.text-center a:visited {
+    color: #A0522D;
+}
+
+/* for the three functions */
+.controls-container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1rem;
+    margin-right: 1rem;
+}
+
+.hand-select {
+    width: 220px;
+}

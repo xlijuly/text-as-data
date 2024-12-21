@@ -33,33 +33,29 @@
       <body>
          <div type="page" n="24r" rend="recto">
             <pb facs="#p24r"/>
-               <metamark function="pagenumber"><num><hi rend="circled">81</hi></num></metamark>
-            <p>
+               <metamark function="pagenumber"><num><hi rend="circled">81</hi></num></metamark><lb/>
+            <p class="no-indent">
                "and Indeed I believe I left him<lb/>
                "incredulous to the last for his con<lb/>
                "stant answer to my applications<lb/>
-               "was the same as<add place="infralinear" hand="#PBS" rend="blackink">^</add> <add place="supralinear" hand="#PBS" rend="blackink">that of</add> the dutch school<lb/>
+               "was the same as<metamark place="infralinear" hand="#PBS" rend="blackink" function="insertion">^</metamark> <add place="supralinear" hand="#PBS" rend="blackink">that of</add> the dutch school<lb/>
                "master in the Vicar of Wakefield-<lb/>
                <add place="marginleft" hand="#MWS" rend="blackink">
-                  "<del type="crossedOut" hand="#MWS" rend="blackink">a year</del><add place="supralinear" hand="#MWS" rend="blackink">yr.</add> with<lb/>
-                  "out greek -I<lb/>
-                  "eat heartily<lb/>
-                  without greek<lb/>
-                  of-<lb/>
+                  "<del type="crossedOut" hand="#MWS" rend="blackink">a year</del><add place="supralinear" hand="#MWS" rend="blackink">yr.</add> with
                </add>
                <del type="crossedOut" hand="#MWS" rend="blackink">"I live very well yet I do not know</del><lb/>
-               <del type="crossedOut" hand="#MWS" rend="blackink">"Greek</del> " I have ten thousand florins-<lb/>
-               "But his affection for me at<lb/>
-               "length overcame his dislike for<lb/>
-               "learning, and he permitted me<lb/>
-               "to <add place="supralinear" hand="#PBS" rend="blackink">under</add><add place="infralinear" hand="#PBS" rend="blackink">^</add>take a voyage <add place="supralinear" hand="#PBS" rend="blackink">of discovery</add> to the land of<lb/>
+               <add place="marginleft" hand="#MWS" rend="blackink">"out greek -I</add><del type="crossedOut" hand="#MWS" rend="blackink">"Greek</del> " I have ten thousand florins-<lb/>
+               <add place="marginleft" hand="#MWS" rend="blackink">"eat heartily</add>"But his affection for me at<lb/>
+               <add place="marginleft" hand="#MWS" rend="blackink">without greek</add>"length overcame his dislike for<lb/>
+               <add place="marginleft" hand="#MWS" rend="blackink">of-</add>"learning, and he permitted me<lb/>
+               "to <add place="supralinear" hand="#PBS" rend="blackink">under</add><metamark place="infralinear" hand="#PBS" rend="blackink" function="insertion">^</metamark>take a voyage <add place="supralinear" hand="#PBS" rend="blackink">of discovery</add> to the land of<lb/>
                "knowledge."<lb/>
             </p>
-            <p style="text-indent:20px">
+            <p>
                "And my father, brothers &amp; Eliza<lb/>
                beth" said I<lb/>
             </p>
-            <p style="text-indent:20px">
+            <p>
                "Very well &amp; very happy" replied<lb/>
                he "only a little uneasy that <del type="crossedOut" hand="#MWS" rend="blackink">yo</del><lb/>
                "they hear from you so seldom, &amp;<lb/>
@@ -72,11 +68,11 @@
                "and pale; you appear as if you had<lb/>
                "been watching for several nights."<lb/>
             </p>
-            <p style="text-indent:20px">
+            <p>
                "You have guessed right" I replied<lb/>
                "I have lately been so engaged in<lb/>
                "<del type="crossedOut" hand="#MWS" rend="blackink">several</del><add place="supralinear" hand="#PBS" rend="blackink"><del type="crossedOut" hand="#PBS" rend="blackink">studious</del> one</add> occupation<del type="crossedOut" hand="#MWS" rend="blackink">s</del> that I <del type="crossedOut" hand="#MWS" rend="blackink">did</del><lb/>
-               <add place="marginleft" hand="#PBS" rend="blackink">have</add>"not allow<add place="inline" hand="#PBS" rend="blackink">ed</add><add place="infralinear" hand="#MWS" rend="blackink">^</add><add place="supralinear" hand="#MWS" rend="blackink">myself</add> sufficient rest as you<lb/>
+               <add place="marginleft" hand="#PBS" rend="blackink">have</add>"not allow<add place="inline" hand="#PBS" rend="blackink">ed</add><metamark place="infralinear" hand="#MWS" rend="blackink" function="insertion">^</metamark><add place="supralinear" hand="#MWS" rend="blackink">myself</add> sufficient rest as you<lb/>
             </p>
          </div>
       </body>

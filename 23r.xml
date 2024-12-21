@@ -33,26 +33,26 @@
       <body>
          <div type="page" n="23r" rend="recto">
             <pb facs="#p23r"/>      
-            <metamark function="pagenumber"><num><hi rend="circled">79</hi></num></metamark>
-            <p>
+            <metamark function="pagenumber"><num><hi rend="circled">79</hi></num></metamark><lb/>
+            <p class="no-indent">
                my view. I did not dare <del type="crossedOut" hand="#MWS" rend="blackink">to</del> return<lb/>
-               to the appartment<add place="infralinear" hand="#MWS" rend="blackink">^</add> <add place="supralinear" hand="#MWS" rend="blackink">which</add> I inhabited but<lb/>
+               to the appartment<metamark place="infralinear" hand="#MWS" rend="blackink" function="insertion">^</metamark> <add place="supralinear" hand="#MWS" rend="blackink">which</add> I inhabited but<lb/>
                felt impelled to hurry on although<lb/>
                wetted by the <del type="crossedOut" hand="#MWS" rend="blackink">drizzling</del> rain which poured<lb/>
                from a black and comfortless sky.<lb/>
             </p>
-            <p style="text-indent:20px">
+            <p>
                I continued walking in this manner <lb/>
                for some time endeavouring by bodily<lb/>
                exercise to ease the load that weighed<lb/>
                upon my mind. I traversed the streets<lb/>
                without any clear conception of where<lb/>
                I was or what I was doing: my heart<lb/>
-               palpitated <del type="crossedOut" hand="#MWS" rend="blackink">with</del><add place="infralinear" hand="#PBS" rend="blackink">^</add><add place="supralinear" hand="#PBS" rend="blackink">in the sickness of</add> fear and I hurried<lb/>
+               palpitated <del type="crossedOut" hand="#MWS" rend="blackink">with</del><metamark place="infralinear" hand="#PBS" rend="blackink" function="insertion">^</metamark><add place="supralinear" hand="#PBS" rend="blackink">in the sickness of</add> fear and I hurried<lb/>
                on with irregular steps not daring<lb/>
                to look about me,<lb/>
             </p>
-            <p style="margin-left:40px">
+            <p class="stanza">
                "Like one who on a lon<del type="overwritten" hand="#MWS" rend="blackink">s</del><add place="overwritten" hand="#MWS" rend="blackink">es</add>ome road<lb/>
                "doth walk in fear and dread<lb/>
                "And having once turned round<add place="infralinear" hand="#MWS" rend="blackink">Lwalks on</add><lb/>
@@ -60,21 +60,16 @@
                "Because he knows a frightful<add place="infralinear" hand="#MWS" rend="blackink">Lfiend</add><lb/>
                "doth close behind him tread."*<lb/>
             </p>
-            <p style="text-indent:20px">
+            <p>
                Continueing thus, I came at lenght<lb/>
                <del type="crossedOut" hand="#MWS" rend="blackink">opposite</del><add place="supralinear" hand="#PBS" rend="blackink">opposite to</add> the Inn at which the dili<lb/>
                -gences and carriages usually stopped. Here<lb/>
                I paused I knew not why but remained<lb/>
                some minutes with my eyes fixed on<lb/>
                a coach that was coming towards me<lb/>
-               <add place="marginleft" hand="#MWS" rend="blackink">
-                  _______________<lb/>
-                  * Coleridge's<lb/>
-                  "Ancient Mariner."<lb/>
-               </add>
-               from the other end of the street.<lb/>
-               As <add place="infralinear" hand="#MWS" rend="blackink">^</add><del type="crossedOut" hand="#MWS" rend="blackink">I</del><add place="supralinear" hand="#MWS" rend="blackink">it</add> drew nearer I observed that it<lb/>
-               was the Swiss diligence; it stopped<lb/>
+               <add place="marginleft" hand="#MWS" rend="blackink">___________</add>from the other end of the street.<lb/>
+               <add place="marginleft" hand="#MWS" rend="blackink">* Coleridge's</add>As <metamark place="infralinear" hand="#MWS" rend="blackink" function="insertion">^</metamark><del type="crossedOut" hand="#MWS" rend="blackink">I</del><add place="supralinear" hand="#MWS" rend="blackink">it</add> drew nearer I observed that it<lb/>
+               <add place="marginleft" hand="#MWS" rend="blackink">"Ancient Mariner."</add>was the Swiss diligence; it stopped<lb/>
                just where I was standing, and on<lb/>
             </p>
          </div>

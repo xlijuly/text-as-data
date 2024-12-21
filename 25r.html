@@ -9,20 +9,22 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
     <script src="https://unpkg.com/mirador@latest/dist/mirador.min.js"></script>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=Libre+Baskerville:wght@400;700&family=Crimson+Text:wght@400;600&family=Cormorant+Garamond:wght@400;600&display=swap">
 
     <title>Frankenstein Edition</title>
     <link href="style.css" rel="stylesheet">
   </head>
   <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <a class="navbar-brand" href="#">Frankenstein</a>
+      <a class="navbar-brand" href="index.html">Frankenstein</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarNavDropdown">
         <ul class="navbar-nav">
+          <li class="nav-item">
             <a class="nav-link" href="index.html">Home</a>
+          </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               Pages
@@ -44,16 +46,29 @@
       </div>
     </nav>
     <div class="container-fluid">
-      <h1>Frankenstein Volume I Draft in Chapter Sequence</h1>
+      <h1>&nbsp;&nbsp;&nbsp;Bodleian MS Abinger c.56</h1>
       <span style="visibility:hidden" id='page'>52</span>
       <h2 id='folio'>25r</h2> <!-- you can style this h2 element differently, but you should keep the id="folio" and the elements value *unchanged* -->
       <div id="stats"></div>
-      <div class="form-group">
-        <select class="form-control" id="sel-hand" onChange="selectHand(event)">
-          <option value="both">Both Hands</option>
-          <option value="Mary">Mary Shelley's Hand Highlighted</option>
-          <option value="Percy">Percy Shelley's Hand Highlighted</option>
-        </select>
+      <div class="controls-container">
+        <div class="form-group mb-0">
+            <select class="form-control hand-select" id="sel-hand" onChange="selectHand(event)">
+                <option value="both">Both Hands</option>
+                <option value="Mary">Mary Shelley's Hand</option>
+                <option value="Percy">Percy Shelley's Hand</option>
+            </select>
+        </div>
+        <div class="btn-group">
+          <a href="24v.html" class="btn btn-secondary" id="prev-page">
+            <i class="fas fa-arrow-left"></i> Previous Page
+          </a>
+          <a href="25v.html" class="btn btn-secondary" id="next-page">
+            Next Page <i class="fas fa-arrow-right"></i>
+          </a>
+        </div>
+        <button class="btn btn-secondary" onclick="toggleDeletions()">
+            Hide Deletions
+        </button>
       </div>
       <div class="row">
         <div class="col-5">   

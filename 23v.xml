@@ -32,19 +32,19 @@
     <body>
       <div type="page" n="23v" rend="verso">
         <pb facs="#p23v"/>
-        <metamark function="pagenumber"><num><hi rend="circled">80</hi></num></metamark>
-        <p>
+        <metamark function="pagenumber"><num><hi rend="circled">80</hi></num></metamark><lb/><lb/>
+        <p class="no-indent">
           the doors being opened I perceived Henry<lb/> 
           Clerval, who on <del type="crossedOut" hand="#MWS" rend="blackink">seee</del> seeing me instantly 
           sprung out.<lb/>
         </p>
-        <p style="text-indent:20px">
+        <p>
           "My dear Frankenstien," exclaimed he<lb/>
           "How glad I am to see you; how<lb/>
           "fortunate<add place="supralinear" hand="#PBS" rend="blackink">that</add> you should be here at<lb/>
-          "the <add place="infralinear" hand="#PBS" rend="blackink">^</add><add place="supralinear" hand="#PBS" rend="blackink">very</add> moment of my alighting."<lb/>
+          "the <metamark place="infralinear" hand="#PBS" rend="blackink" function="insertion">^</metamark><add place="supralinear" hand="#PBS" rend="blackink">very</add> moment of my alighting."<lb/>
         </p>
-        <p style="text-indent:20px">
+        <p>
           Nothing could equal my delight<lb/>
           on <del type="crossedOut" hand="#MWS" rend="blackink">see</del> seing Clerval: his presence<lb/>
           brought back to my thoughts my fa-<lb/>
@@ -52,7 +52,7 @@
           of home so dear to my recollection.<lb/>
           I grasped his hand, and in a moment<lb/>
           forgot my horror and misfortune.<lb/>
-          I felt<add place="infralinear" hand="#PBS" rend="blackink">^</add><add place="supralinear" hand="#PBS" rend="blackink">suddenly, and</add> for the first time <del rend="crossedOut" hand="#MWS" rend="blackink">for</del><add place="supralinear" hand="#PBS" rend="blackink">during</add><lb/>
+          I felt<metamark place="infralinear" hand="#PBS" rend="blackink" function="insertion">^</metamark><add place="supralinear" hand="#PBS" rend="blackink">suddenly, and</add> for the first time <del type="crossedOut" hand="#MWS" rend="blackink">for</del><add place="supralinear" hand="#PBS" rend="blackink">during</add><lb/>
           many months<add place="inline" hand="#PBS" rend="blackink">,</add> calm and serene<lb/>
           joy. I welcomed my friend therefore<lb/>
           in the most cordial manner &amp;<lb/>
@@ -62,7 +62,7 @@
           friends and his <add place="supralinear" hand="#PBS" rend="blackink">own</add> good fortune in<lb/>
           being allowed to come Ingolstadt.<lb/>
         </p>
-        <p style="text-indent:20px"> 
+        <p> 
           "You may believe", said he, "<del type="crossedOut" hand="#MWS" rend="blackink">that</del><lb/>
           "it was not with<del type="crossedOut" hand="#MWS" rend="blackink">out</del>considerable<lb/>
           "trouble that I persuaded my<lb/>

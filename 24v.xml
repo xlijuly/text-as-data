@@ -33,13 +33,13 @@
       <body>
          <div type="page" n="24v" rend="verso">
             <pb facs="#p24v"/>
-            <metamark function="pagenumber"><num><hi rend="circled">82</hi></num></metamark>
-         <p>
+            <metamark function="pagenumber"><num><hi rend="circled">82</hi></num></metamark><lb/><lb/>
+         <p class="no-indent">
             "see<add place="inline" hand="#PBS" rend="blackink">;</add> but I hope, I sincerely hope all those<lb/>
             "occupations are at an end—I am free<lb/>
             "now I hope."<lb/>
          </p>
-         <p style="text-indent:20px">
+         <p>
             I trembled excessively: I could not<lb/>
             bear to think of<add place="inline" hand="#PBS" rend="blackink">,</add> &amp; far less to allude<lb/>
             to the occurences of the prece<del type="crossedOut" hand="#MWS" rend="blackink">e</del>ding<lb/>
@@ -53,7 +53,7 @@
             about. I dreaded to see him but I<lb/>
             dreaded still more that Henry should<lb/>
             behold the monst<del type="crossedOut" hand="#MWS" rend="blackink">h</del>er.<del type="crossedOut" hand="#MWS" rend="blackink">I therefore</del><lb/>
-            entreat<del type="overwritten" hand="#MWS" rend="blackink">ed</del><add place="overwritten" hand="#PBS" rend="blackink">ing</add> him<add place="infralinear" hand="#PBS" rend="blackink">^</add> <add place="supralinear" hand="#PBS" rend="blackink">therefore</add> to remain a few<lb/>
+            entreat<del type="overwritten" hand="#MWS" rend="blackink">ed</del><add place="overwritten" hand="#PBS" rend="blackink">ing</add> him<metamark place="infralinear" hand="#PBS" rend="blackink" function="insertion">^</metamark> <add place="supralinear" hand="#PBS" rend="blackink">therefore</add> to remain a few<lb/>
             minute<add place="inline" hand="#PBS" rend="blackink">s</add> at the bottom of the<lb/>
             stairs, <del type="crossedOut" hand="#MWS" rend="blackink">while</del> I darted upwards<lb/>
             my own room. My hand was already<lb/>
